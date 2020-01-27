@@ -48,3 +48,6 @@ I will also plot the histogram of selected ads, just to check that the strategy 
 
 
 Don’t hesitate to improve the project if you wish with a Pull Request. Until then, enjoy AI for Performance Maximization! 
+
+![alt text](https://imgur.com/Zc17FpV.png)
+
