@@ -47,4 +47,4 @@ While implementing Thompson Sampling, I will also implement the Random Selection
 I will also plot the histogram of selected ads, just to check that the strategy with the highest conversion rate (Strategy 7) was the one selected the most.
 
 
-
+Don’t hesitate to improve the project if you wish with a Pull Request. Until then, enjoy AI for Performance Maximization! 
